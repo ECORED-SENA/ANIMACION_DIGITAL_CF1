@@ -1,0 +1,250 @@
+@media only screen and (max-width: 992px)
+    .timeline 
+      padding: 0px
+    .body
+      width: auto !important      
+    .entry .body      
+      padding-left: 0px 
+    .timeline::before
+      background-color: transparent !important  
+                  
+.img-t
+  width: auto
+  height: auto 
+
+@media only screen and (max-width: 992px)
+  .m-left
+    left: 0 !important  
+
+.m-left
+  left: 50% !important
+
+.bloque-texto-g
+  justify-content: flex-start !important
+
+.bloque-g-text
+  justify-content: flex-end !important  
+
+.yoyo 
+  animation: yoyo 3.0s
+  animation-iteration-count: infinite
+
+.yoyo1 
+  animation: yoyo1 3.0s
+  animation-iteration-count: infinite
+
+@keyframes yoyo1 
+  0%  
+    transform: translatey(0px)
+  50%  
+    transform: translatey(-3px)
+  100%  
+    transform: translatey(0px)  
+
+
+.img-a 
+  display: block 
+  margin: auto   
+  width: auto
+  height: auto
+
+$gutter: 30px
+$border-width: 6px
+$dot-diameter: 28px
+.timeline 
+  width: 100%
+  max-width: 1000px
+  padding: 100px 50px
+  position: relative
+  &:before 
+    content: ''
+    position: absolute
+    top: 0px
+    left: calc(34.2% + -35px) //$gutter/2
+    bottom: 0px
+    width: 10px
+    background: #E4C7A1
+    border-radius: 20px  
+  &:after 
+    content: ""
+    display: table
+    clear: both
+.entry 
+  clear: both
+  text-align: left
+  position: relative
+  .title 
+    margin-bottom: .5em
+    float: left
+    padding-right: $gutter
+    text-align: right
+    position: relative  
+    width: 90px
+    height: 90px
+    background: #D44F4A
+    border-radius: 50%
+    transition: transform .3s ease-in-out
+    display: flex
+    justify-content: center
+    align-items: center
+    margin-left: 14.5%
+    &:before 
+      content: ''
+      position: absolute
+      width: $dot-diameter
+      height: $dot-diameter
+      border: $border-width solid #D44F4A
+      background-color:#E4C7A1
+      border-radius: 100%
+      top: 40%
+      left: 130%
+      right: -$dot-diameter
+      z-index: 99
+    &:after
+      content: ""
+      display: block
+      top: 38%
+      left: 73%
+      width: 30px
+      height: 30px
+      transform: rotate(45deg)
+      position: absolute
+      background: #D44F4A 
+    h3 
+      margin: 0
+      margin-left: 30px      
+      font-size: 120%
+      z-index: 20
+      color: white 
+    p 
+      margin: 0
+      font-size: 100%  
+  .body 
+    margin: 0 0 3em
+    float: right
+    width: 70%
+    padding-left: $gutter
+    p 
+      line-height: 1.4em
+      &:first-child 
+        margin-top: 0
+        font-weight: 400     
+    ul 
+      color:#aaa
+      padding-left: 0
+      list-style-type: none
+      li:before 
+        content: "–"
+        margin-right: .5em
+      
+.anexo
+  background-color: #FFEBD3 
+
+.anexo *
+  color: #12263F
+
+.bg-color1
+  background: linear-gradient(90deg, rgba(237,197,150,1) 0%, rgba(239,223,201,1) 43%, rgba(255,255,255,1) 99%);
+
+.img_b
+  margin-left: 627px !important
+
+.tex-ali
+  margin-top: -462px
+
+.bg-color2
+  background: linear-gradient(180deg, rgba(241,226,207,1) 0%, rgba(239,227,202,0.02511548392380336) 99%);
+  margin-inline: -3.2rem 
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center
+  padding-top: 20px
+  padding-bottom: 20px
+
+.bg-color3
+  background: linear-gradient(180deg, rgba(255,194,0,1) 0%, rgba(255,194,0,0) 75%);
+  margin-inline: -3.2rem 
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center
+  padding-top: 20px
+  padding-bottom: 20px
+
+.tarjeta--gris
+  background-color: lighten(#E4C7A1,19% )   
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  color: $white
+
+.bg_anx
+  background-color: $white
+
+.cajon.color-secundario
+  background-color: lighten(#FFC200,42% )
+
+.tarj_bg1
+  background-color: lighten(#FA9300,25% )  
+  border-radius: 20px
+
+.tarj_bg2
+  background-color: lighten(#FFC200,25% )  
+  border-radius: 20px
+
+.tarj_bg3
+  background-color: lighten(#D44F4A,25% )  
+  border-radius: 20px
+
+.tarj_bg4
+  background-color: lighten(#EDC596,15% )  
+  border-radius: 20px
+
+.img-infografica__item, .img-infografica-b__item
+  width: 4.5%
+
+.tarjeta.color-acento-botones *
+  color: $color-sistema-a
+
+.cajon.color-acento-contenido 
+    background-color: lighten(#E4C7A1,20% )  
+
+.tar_sly
+  background: linear-gradient(0deg, rgba(241,226,207,0.5504319396200059) 0%, rgba(245,231,211,1) 72%)
+
+.line01
+  height: 3px
+  background-color: #D44F4A
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #D44F4A
+
+.slyder-a__bullets__item 
+  width: 30px
+  height: 7px
+  background-color: #F0BDBC
+  border-radius: 0%
+  opacity: 1
+
+.slyder-a__bullets__item--active 
+    background-color: #D44F4A
+
+@media screen and (max-width: 991px)
+  .slyder-a__btn--digt, .slyder-a__btn--atrs
+    top: 102% !important
+
+.cajon.color-acento-botones 
+    background-color: $white
+
+.bg_td2
+  background-color: #D44F4A
+
+.bg_1
+  background-color: lighten(#FFC200,38% )  
+.bg_2
+  background-color: #FFC200
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span 
+  color: $white
+  
+.titulo-segundo:after 
+  border-left: solid 50px #E4C7A1
+
