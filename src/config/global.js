@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Desarrollo creativo',
     descripcionCurso:
       'Es posible que cuando se era más joven se dibujaran figuras animadas o quizás se creó un pequeño libro animado a través de pequeñas escenas realizadas en cada página de un cuaderno que, cuando se hojean, dan la ilusión de movimiento.<br><br>Por tal motivo este componente retomará la historia de la animación, técnicas y las bases para el diseño narrativo y diseño de la producción o <em>pipeline</em>.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+    imagenBannerPrincipal: '',
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {
@@ -363,7 +363,13 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Eulises Orduz Amezquita'],
+        nombre: 'Eulises Orduz Amezquita',
+        cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Luis Gabriel Urueta Alvarez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
