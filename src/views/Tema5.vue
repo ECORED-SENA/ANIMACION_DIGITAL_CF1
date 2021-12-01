@@ -12,7 +12,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/g5_X7IImhiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-5(data-aos="flip-up") Una buena trama es fundamental para el desarrollo de la historia, pero esto solo puede ser posible si se tienen unos personajes sólidos que permitan que la historia se desenvuelva.
+    
 
     separador
 
