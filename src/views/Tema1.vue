@@ -34,6 +34,7 @@
             .title.beat
               h3.text-center 2000 a.c
             .body
+              img(data-aos="fade-down").img-t.img-a.mt-5(src='@/assets/curso/tema_1/img_16.png', alt='')
               p(data-aos="fade-down").mt-5 Los antiguos griegos decoraban algunas de sus vasijas con pinturas en distintas posiciones de acción. Al girar la vasija, se creaba una sensación de movimiento.
               .hr(data-aos="fade-left")               
           .entry(data-aos="fade-down")
@@ -403,7 +404,7 @@
             .title.beat
               h3.text-center 1974
             .body
-              p(data-aos="fade-down").mt-5 Es creada la serie Heidi de la mano de Hayao Miyasaki e Isao Takahata 
+              p(data-aos="fade-down").mt-5 Es creada la serie Heidi de la mano de Hayao Miyasaki e Isao Takahata. 
               .hr(data-aos="fade-left") 
           .entry(data-aos="fade-down")
             .title.beat

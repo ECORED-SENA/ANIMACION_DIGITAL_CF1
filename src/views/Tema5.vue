@@ -24,7 +24,7 @@
 
         p En los aspectos físicos se describen todos aquellos rasgos que dan identidad visual al personaje, elementos como la edad que tiene y que aparenta, estatura, tono de piel, color de ojos, tipo y color de cabello, sexo, complexión, condiciones físicas y cualquier elemento que permita establecer como se ve el personaje.
 
-        p En los aspectos psicológicos se exploran elementos que definen su comportamiento como su temperamento, el sentir hacia sí mismo, como se ve ante los demás, fortalezas, debilidades, objetivos, sueños, metas, miedos y cualquier otra cosa que hable sobre su actitud hacia la vida como hobbies, en dónde vive, dónde creció, dónde se educó y en general, información que hable de su entorno social.
+        p En los aspectos psicológicos se exploran elementos que definen su comportamiento como su temperamento, el sentir hacia sí mismo, como se ve ante los demás, fortalezas, debilidades, objetivos, sueños, metas, miedos y cualquier otra cosa que hable sobre su actitud hacia la vida como #[i hobbies], en dónde vive, dónde creció, dónde se educó y en general, información que hable de su entorno social.
 
         p Es necesario tener en cuenta que toda esta información debe ser relevante y útil para el desarrollo del personaje en la historia y se puede manejar a modo de ficha o como una biografía narrada, lo importante es que con estos datos se construya un personaje profundo que cause interés y tenga elementos para sufrir una transformación durante el transcurso de la historia.
 

@@ -42,7 +42,7 @@
     #t_4_1.titulo-segundo(data-aos="fade-right")
       h2 4.1 Modelo Aristotélico y el paradigma
 
-    p.mb-5(data-aos="fade-right") Ambos modelos se pueden contemplar como un mismo tipo de estructura dramática, teniendo en cuenta que tanto el modelo estudiado por el filósofo Aristóteles en su libro “La Poética”, como “El Paradigma” planteado por Syd Field, se basan en la narración de una historia en 3 actos principales: presentación (acto I) , confrontación (acto II) y resolución del conflicto principal (acto III); sin embargo, “El Paradigma” podría entenderse como una extensión del modelo aristotélico, dado que los actos están divididos por puntos argumentales o plot points, los cuales son acontecimientos que cambian radicalmente el sentido de la acción (Baiz, s.f.).
+    p.mb-5(data-aos="fade-right") Ambos modelos se pueden contemplar como un mismo tipo de estructura dramática, teniendo en cuenta que tanto el modelo estudiado por el filósofo Aristóteles en su libro “La Poética”, como “El Paradigma” planteado por Syd Field, se basan en la narración de una historia en 3 actos principales: presentación (acto I) , confrontación (acto II) y resolución del conflicto principal (acto III); sin embargo, “El Paradigma” podría entenderse como una extensión del modelo aristotélico, dado que los actos están divididos por puntos argumentales o #[i plot points], los cuales son acontecimientos que cambian radicalmente el sentido de la acción (Baiz, s.f.).
 
     img.mb-5.img-a(src='@/assets/curso/tema_4/img_5.png', alt='Texto que describa la imagen')(data-aos="fade-left")
 
@@ -69,12 +69,12 @@
 
             p Kenai se enfrenta a su hermano Tug que trata de matarlo. Koda entra en escena para defender a Kenai, pero al estar en peligro el pequeño oso, Kenai lo protege con su vida. Es allí donde todo se resuelve, Kenai vuelve a ser humano y se reencuentran los 3 hermanos. Kenai comprende el significado de su totem y decide cuidar del pequeño Koda, renunciado a su vida como humano, sellando así su ritual de hombría.
 
-            p Una película puede tener varios plot points que le ayuden a intensificar el drama. Se pueden manejar 2 en el acto I, más de 10 en el acto II y 1 en el acto III. Sin embargo, para que la historia funcione, se deben tener claros los 4 componentes básicos: inicio, final y los dos plot points (Field, 1995).
+            p Una película puede tener varios #[i plot points] que le ayuden a intensificar el drama. Se pueden manejar 2 en el acto I, más de 10 en el acto II y 1 en el acto III. Sin embargo, para que la historia funcione, se deben tener claros los 4 componentes básicos: inicio, final y los dos #[i plot points] (Field, 1995).
 
 
     separador
-    #t_2_2.titulo-segundo(data-aos="flip-up")
-      .h4 2.2 El viaje del héroe
+    #t_4_2.titulo-segundo(data-aos="flip-up")
+      .h4 4.2 El viaje del héroe
 
     p.mb-5(data-aos="flip-up") Este modelo, también conocido como Monomito, surge del trabajo de Joseph Cambell y más tarde, del escritor hollywoodense Christopher Vogler. Cambell recogió cientos de mitos y leyendas de diferentes culturas y descubrió 17 puntos en común, los cuales plasmó en su libro “El héroe de las mil caras” (1949). Vogler, inspirado por el trabajo de Cambell, escribió el libro “El viaje del escritor”, en el cual adaptó el lenguaje académico de Campbell para la industria del cine (Cubero, 2017). Este arquetipo se compone por 12 etapas:
 

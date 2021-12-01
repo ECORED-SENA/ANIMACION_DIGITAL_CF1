@@ -38,7 +38,7 @@
         .row.justify-content-center
           .col-lg-10
             p Es una de las formas más antiguas de animar, en donde cada cuadro o fotograma es dibujado y pintado a mano. Es importante saber que 1 segundo de video o animación es igual a 24 cuadros, dibujos o fotogramas. Esta información será ampliada más adelante, pero resulta útil en este momento para llegar a comprender el titánico trabajo que conlleva este estilo de animación.
-            p.mb-5 Esta técnica es también conocida como cel animation, por el proceso que se requería para transferir los dibujos del papel y lápiz a una lámina transparente o acetato (cel) para ser pintada y posteriormente fotografiada con los fondos. En internet se pueden encontrar algunos vídeos para entender mejor dicho proceso, como, por ejemplo:
+            p.mb-5 Esta técnica es también conocida como #[i cel animation], por el proceso que se requería para transferir los dibujos del papel y lápiz a una lámina transparente o acetato (cel) para ser pintada y posteriormente fotografiada con los fondos. En internet se pueden encontrar algunos vídeos para entender mejor dicho proceso, como, por ejemplo:
 
             .row.justify-content-center
               .col-lg-6
@@ -180,7 +180,7 @@
         img.img-a.mb-5(src='@/assets/curso/tema_2/img_11.png', alt='')
         .row.justify-content-center
           .col-lg-10
-            p El CGI o Imágenes Generadas por Computadora (por sus siglas en inglés) son animaciones producidas digitalmente y comprenden un vasto abanico de categorías que van desde la animación digital 2D, los motion graphics, animación 3D, los vfx, videojuegos, realidad virtual, entre otros.
+            p El CGI o Imágenes Generadas por Computadora (por sus siglas en inglés) son animaciones producidas digitalmente y comprenden la animación digital 2D, los #[i motion graphics], hasta la animación 3D.
             p A continuación se describen algunos de los más importantes y usados hoy día:
 
     LineaTiempoD.color-primario.mt-5(data-aos="fade-down")

@@ -24,7 +24,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'Técnicas de animación',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'Técnicas de animación',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -118,19 +118,19 @@ export default {
         nombreRuta: 'tema6',
         icono: 'far fa-file-alt',
         numero: '6',
-        titulo: 'Guion',
+        titulo: 'Guión',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '6.1',
-            titulo: 'El guion en la animación',
+            titulo: 'El guión en la animación',
             hash: 't_6_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '6.2',
-            titulo: 'Guion literario',
+            titulo: 'Guión literario',
             hash: 't_6_2',
           },
         ],
@@ -173,7 +173,7 @@ export default {
 
     {
       referencia:
-        'Baiz, F. (s.f). <em>Claves para la escritura de un buen guion de cine.<em> Consultado el 28 de agosto de 2020 en:',
+        'Baiz, F. (s.f). <em>Claves para la escritura de un buen guión de cine.<em> Consultado el 28 de agosto de 2020 en:',
       link:
         'https://issuu.com/pedromenesesmontes/docs/claves-para-la-escritura-de-un-buen',
     },
@@ -393,7 +393,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Maria camila Ovalle Ospina',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
