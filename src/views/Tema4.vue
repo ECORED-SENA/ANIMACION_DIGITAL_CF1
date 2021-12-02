@@ -74,7 +74,7 @@
 
     separador
     #t_4_2.titulo-segundo(data-aos="flip-up")
-      .h4 4.2 El viaje del héroe
+      h2 4.2 El viaje del héroe
 
     p.mb-5(data-aos="flip-up") Este modelo, también conocido como Monomito, surge del trabajo de Joseph Cambell y más tarde, del escritor hollywoodense Christopher Vogler. Cambell recogió cientos de mitos y leyendas de diferentes culturas y descubrió 17 puntos en común, los cuales plasmó en su libro “El héroe de las mil caras” (1949). Vogler, inspirado por el trabajo de Cambell, escribió el libro “El viaje del escritor”, en el cual adaptó el lenguaje académico de Campbell para la industria del cine (Cubero, 2017). Este arquetipo se compone por 12 etapas:
 
