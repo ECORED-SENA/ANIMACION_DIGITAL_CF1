@@ -16,7 +16,7 @@
 
     separador
     #t_6_1.titulo-segundo(data-aos="flip-up")
-      .h4 6.1 El guión en la animación
+      h2 6.1 El guión en la animación
 
     .row.align-items-center.px-5
       .col-lg-12.mb-4.mb-lg-0
@@ -97,7 +97,7 @@
 
     separador
     #t_6_2.titulo-segundo(data-aos="flip-up")
-      .h4 6.2 Guión literario    
+      h2 6.2 Guión literario    
 
     .row.align-items-center.bg-color3.p-5(data-aos="slide-right")
       .col-lg-12.mb-4.mb-lg-0
