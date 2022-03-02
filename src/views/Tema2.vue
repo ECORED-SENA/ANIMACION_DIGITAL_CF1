@@ -88,11 +88,11 @@
             p Esta categoría describe la animación creada a partir de la manipulación de objetos físicos que son movidos ligeramente y fotografiando fotograma a fotograma con el fin de dar la ilusión de estar vivos. Existen varias subcategorías de este estilo, principalmente por el medio o material usado para crear la animación. (Laybourne, 1998).
             .row.justify-content-center.align-items-center.mt-4(data-aos="fade-down")       
               .col-lg-6         
-                a.mb-3.anexo.bg-a(href="https://www.youtube.com/watch?v=djV11Xbc914" target="_blank")
+                a.mb-3.anexo.bg-a(href="https://www.youtube.com/watch?v=X0QemvmpzfQ" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p.text-a #[b.text-a Video]. Ejemplo: #[i.text-a The evolution of  stop motion]
+                    p.text-a #[b.text-a Video]. Ejemplo: #[i.text-a The evolution of stop motion]
         .row.justify-content-center.align-items-center.mt-5(data-aos="fade-down")       
           .col-lg-10                
             p(data-aos="fade-down") Existen varias subcategorías de este estilo de animación, determinado principalmente por el medio o material usado para crear los diferentes personajes y elementos de la producción (Laybourne, 1998): 
