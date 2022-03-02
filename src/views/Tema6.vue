@@ -141,7 +141,7 @@
 
     p(data-aos="slide-right") Al introducir un personaje se puede añadir una breve descripción del mismo entre paréntesis para la primera vez que aparece y su nombre se debe poner en mayúscula sostenida siempre.
 
-    p.mb-5(data-aos="slide-left") Cuando en hay intervención de diálogos, estos se ponen en posición centrada para diferenciarlos de la acción e inician con el nombre del personaje que los dice, cuando los diálogos son de alguien que no aparece en pantalla se acotan entre paréntesis así (#[i OFF]), por ejemplo, el diálogo de alguien en otra habitación. Sin embargo, cuando el diálogo es de una voz en #[i off] como en el caso de un narrador se acota con (V.O.) del inglés #[i Voice Over].
+    p.mb-5(data-aos="slide-left") Cuando hay intervención de diálogos, estos se ponen en posición centrada para diferenciarlos de la acción e inician con el nombre del personaje que los dice, cuando los diálogos son de alguien que no aparece en pantalla se acotan entre paréntesis así (#[i OFF]), por ejemplo, el diálogo de alguien en otra habitación. Sin embargo, cuando el diálogo es de una voz en #[i off] como en el caso de un narrador se acota con (V.O.) del inglés #[i Voice Over].
 
     .row.align-items-center.bg-color2.p-5(data-aos="slide-right")
       .col-lg-12.mb-4.mb-lg-0
@@ -174,7 +174,7 @@
           .anexo__texto
             p #[strong Ejemplo]. guión - Sherk
       .col-lg-4.mb-4.mb-lg-0
-        a.anexo.mb-4(:href="obtenerLink('/downloads/descargar-guión-El-Laberinto-del-Fauno-aprendercine.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/El-Laberinto-del-Fauno-aprendercine.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

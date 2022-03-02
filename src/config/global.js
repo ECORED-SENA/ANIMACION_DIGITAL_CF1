@@ -214,8 +214,7 @@ export default {
     {
       referencia:
         'Gobierno de Colombia, MinTIC. Manizales Vive Digital. (2016). <em>Guía de buenas prácticas de calidad internacional para la industria de Animación Digital</em>.',
-      link:
-        '/www.vivelabmanizales.com/wp-content/uploads/2015/02/1Guía-de-buenas-prácticas-de-calidad-internacional-Web.pdf',
+      link: '',
     },
 
     {
@@ -419,6 +418,21 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Álvaro Andrés Angarita RamÍrez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Andrés Giovanni Machado Cerquera',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },

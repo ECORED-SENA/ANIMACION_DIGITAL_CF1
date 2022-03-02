@@ -88,55 +88,36 @@
       .tarjeta.color-acento-botones.p-3(x="48.3%" y="29.1%", color="color-primario")
         .h5.mb-2 1. Mundo ordinario
         p Se presenta el héroe, descubriendo sus ambiciones y limitaciones; de igual forma se aprende de su mundo, antes que la aventura comience. Esta etapa busca que el espectador se identifique con el protagonista. Por ejemplo, en Star Wars, se puede observar a Luke Skywalker como granjero en Tatooine. (Voytilla, 1999)
-
-
       .tarjeta.color-acento-botones.p-3(x="54.3%" y="32.2%")
         .h5.mb-2 2. Llamada a la aventura
         p Algo pasa para alterar el mundo del héroe, para amenazar su vida como la conoce. Se pone en marcha la historia y se presenta una aventura o búsqueda que debe emprender el protagonista. En Star Wars, el mensaje traído por los androides de parte de la princesa Leia.
-
-
       .tarjeta.color-acento-botones.p-3(x="59%" y="39.2%")
         .h5.mb-2 3. Rechazo a la llamada
         p El protagonista o héroe se resiste al cambio del mundo ordinario, seguramente por sus inseguridades y temores. Se busca mostrar los riesgos y peligros que hacen parte de la aventura. En Star Wars, Luke rechaza el llamado poniendo como excusa su labor en la granja de sus tíos.
-
-
       .tarjeta.color-acento-botones.p-3(x="60.5%" y="49.1%")
         .h5.mb-2 4. Encuentro con el mentor
         p Una persona sabia aparece con el fin de convencer al héroe de aceptar el llamado, mostrarle el camino, entrenarlo y brindarle toda la experiencia que necesita para vencer. Obi-Wan y Yoda se convierten en los mentores de Luke.
-
-
       .tarjeta.color-acento-botones.p-3(x="59%" y="59%")
         .h5.mb-2 5. Cruzando el umbral
-        p Finalmente, el héroe está comprometido con la aventura, está preparado para abandonar el mundo ordinario y adentrarse en los riesgos del mundo especial; punto del cual no habrá retorno. Para el ejempl7o de Star Wars, Luke acepta el llamado y junto a Obi-Wan llegan al puerto espacial Mos Aisley.
-
-
+        p Finalmente, el héroe está comprometido con la aventura, está preparado para abandonar el mundo ordinario y adentrarse en los riesgos del mundo especial; punto del cual no habrá retorno. Para el ejemplo de Star Wars, Luke acepta el llamado y junto a Obi-Wan llegan al puerto espacial Mos Aisley.
       .tarjeta.color-acento-botones.p-3(x="54.4%" y="66.5%")
         .h5.mb-2 6. Pruebas, aliados y enemigos
         p Es la iniciación del héroe al nuevo mundo especial al que se ha adentrado. Vive diferentes pruebas, conoce aliados y se enfrenta a sus enemigos. El protagonista tendrá que prepararse por sí solo o pedir mayor entrenamiento a su mentor para lograr sobreponerse a las adversidades. En Star Wars, Luke se encuentra con Han Solo y Chewbacca y tiene la necesidad de ser entrenado por Yoda.
-
       .tarjeta.color-acento-botones.p-3(x="48.2%" y="69%")
         .h5.mb-2 7. Acercamiento a la caverna más profunda
         p Después de muchas dificultades, el héroe se acerca a la guarida del mal supremo. Es el momento donde el héroe se prepara para la batalla central. Se puede ver en Star Wars, tras la incursión a la Estrella de la Muerte.
-
       .tarjeta.color-acento-botones.p-3(x="42.2%" y="66.4%")
         .h5.mb-2 8. La gran prueba o la odisea
         p El héroe se encuentra cara a cara con su enemigo principal, un momento de vida o muerte, a tal punto que experimenta o causa la muerte. Para Star Wars se tiene el momento donde Luke rescata a la princesa Leia y ve morir a su mentor.
-
       .tarjeta.color-acento-botones.p-3(x="37.6%" y="59%")
         .h5.mb-2 9. La recompensa
         p El héroe ha sobrevivido a la muerte y ha vencido sus más grandes temores. Debido a su valeroso acto, adquiere el “elixir” o respuesta al problema que inició la aventura. En Star Wars, la recompensa es “La Fuerza” que adquiere Luke, lo cual será la clave para destruir al Imperio.
-
-
       .tarjeta.color-acento-botones.p-3(x="36%" y="49%")
         .h5.mb-2 10. El camino de vuelta
         p El héroe ya ha adquirido el premio, sin embargo, debe escapar de los peligros del mundo especial para volver a casa. En ejemplo de Star Wars, esta fase se une con la fase 8 (La gran prueba), pues una vez Luke rescata a la princesa, deben enfrentarse a muchos enemigos para lograr escapar.
-
-
       .tarjeta.color-acento-botones.p-3(x="37.4%" y="39%")
         .h5.mb-2 11. La resurrección
         p Otra prueba donde el héroe se enfrenta a la muerte y debe usar todo lo aprendido. El personaje ya ha cambiado, pues tiene experiencia y ha enfrentado sus miedos. En este punto se puede dar nuevamente una lucha contra el mal supremo, pero ahora va más allá de la vida del héroe, el cual se sacrifica por el bien de otros. Por ejemplo, Luke arriesga su vida en el último intento de destruir La Estrella de la Muerte y lo logra.
-
-
       .tarjeta.color-acento-botones.p-3(x="42%" y="31.6%")
         .h5.mb-2 12. Volver con el elixir
         p El mundo del héroe se salva o él vuelve con el elixir para beneficiar a los suyos en el mundo ordinario. En la mayoría de las historias, esta fase completa el círculo del viaje, donde se restaura el balance en el mundo ordinario y el héroe comienza una nueva vida influenciado por su travesía. Al final, Luke Skywalker en Star Wars, se convierte en Jedi y devuelve el equilibrio a “La Fuerza”.

@@ -69,7 +69,7 @@
 
       .row(numero="7" titulo="Desarrollo literario de los personajes")
         .col-lg-8
-          p Consiste en la construcción literaria de los personajes, aquí se definen sus aspectos físicos, mentales culturales y todo aquello que sea importante para establecer su desarrollo y definir el arco de transformación a través de la historia. 
+          p Consiste en la construcción literaria de los personajes, aquí se definen sus aspectos físicos, mentales, culturales y todo aquello que sea importante para establecer su desarrollo y definir el arco de transformación a través de la historia. 
         .col-lg-4
           img.img-t.img-a.yoyo1(src='@/assets/curso/tema_3/img_11.png', alt='')
 
